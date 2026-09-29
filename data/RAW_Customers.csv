@@ -1,0 +1,16 @@
+Customer_ID,Customer_Name,Gender,Age,Area,Customer_Type,Registration_Date
+CUST001,Aarav Sharma,Male,34,Gulmohar,Occasional,2025-09-15
+CUST002,Priya Patel,Female,28,Indrapuri,VIP,2025-09-30
+CUST003,Rohan Verma,Male,45,Kolar Road,Regular,2025-08-27
+CUST004,Ananya Sen,Female,31,Indrapuri,VIP,2025-10-30
+CUST005,Vikram Singh,Male,52,Kolar Road,Regular,2025-06-02
+CUST006,Neha Gupta,Female,24,Gulmohar,Occasional,2025-10-08
+CUST007,Sanjay Rao,Male,39,Gulmohar,Regular,2025-07-28
+CUST008,Pooja Mishra,Female,29,Indrapuri,Regular,2025-07-19
+CUST009,Amit Kumar,Male,42,Kolar Road,VIP,2025-11-17
+CUST010,Kavita Joshi,Female,36,Gulmohar,Occasional,2025-06-15
+CUST011,Rahul Jain,Male,30,Kolar Road,Regular,2025-08-03
+CUST012,Sneha Kapoor,Female,27,Arera Colony,Regular,2025-07-21
+CUST013,Manish Tiwari,Male,48,Indrapuri,Regular,2025-06-18
+CUST014,Ritu Saxena,Female,33,Gulmohar,Occasional,2025-06-14
+CUST015,Deepak Nair,Male,50,MP Nagar,Regular,2025-08-29

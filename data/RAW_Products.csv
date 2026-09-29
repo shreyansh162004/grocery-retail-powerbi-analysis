@@ -1,0 +1,11 @@
+Product_ID,Product_Name,Category,Brand,Unit,Cost_Price,Selling_Price,Supplier_ID
+PROD001,Organic Whole Milk 1L,Dairy & Bakery,Amul,Liter,45.0,56.0,SUP102
+PROD002,Whole Wheat Atta 5kg,Staples & Grains,Aashirvaad,Pack,210.0,260.0,SUP103
+PROD003,Basmati Rice 5kg,Staples & Grains,Fortune,Pack,420.0,510.0,SUP103
+PROD004,Potato Chip Crisp 100g,Snacks & Beverages,Lays,Pack,18.0,25.0,SUP104
+PROD005,Green Tea Bags 25s,Snacks & Beverages,Tetley,Box,120.0,160.0,SUP104
+PROD006,Fresh Red Apples 1kg,Produce,FreshFarm,Kg,110.0,150.0,SUP101
+PROD007,Organic Tomatoes 1kg,Produce,FreshFarm,Kg,25.0,40.0,SUP101
+PROD008,Herbal Shampoo 350ml,Personal Care & Home,Dove,Bottle,180.0,240.0,SUP105
+PROD009,Dishwash Gel 500ml,Personal Care & Home,Vim,Bottle,85.0,115.0,SUP105
+PROD010,Butter 500g,Dairy & Bakery,Amul,Pack,215.0,250.0,SUP102
