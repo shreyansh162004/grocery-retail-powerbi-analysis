@@ -369,5 +369,4 @@ Aspiring Data Analyst | B.Tech CSE (Computer Science & Design), GGITS Jabalpur
 📧 Email: [shreyanshburman10@gmail.com](mailto:shreyanshburman10@gmail.com)
 
 ⭐ If you found this project repository helpful, please consider giving it a star!
-#   g r o c e r y - r e t a i l - p o w e r b i - a n a l y s i s  
- 
+#
