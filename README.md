@@ -5,6 +5,15 @@ A complete data analysis project on grocery retail performance. Raw data was mod
 **Data Flow:** Raw Data → Data Modeling & Relationship Optimization → Power Query (Cleaning & Filtering) → Star Schema Setup → DAX Measures & Display Folders → Power BI (Interactive Dashboards)
 
 ---
+## 📸 Screenshots
+
+### Sales Overview
+<p align="center">
+  <a href="screenshots/Dashboard_1_Sales_Overview.png">
+    <img src="screenshots/Dashboard_1_Sales_Overview.png" alt="Sales Overview Dashboard" width="100%">
+  </a>
+</p>
+---
 
 ## 📑 Table of Contents
 - [Project Overview](#project-overview)
@@ -137,9 +146,6 @@ To guarantee calculation integrity, all dimension and fact tables underwent tran
 
 The report uses a strict Star Schema designed for DAX performance and clear filter propagation:
 
-<p align="center">
-  <img src="screenshots/Data_Model_Star_Schema.svg" alt="Star Schema Data Model" width="90%">
-</p>
 
 ```text
                ┌───────────────────────┐
